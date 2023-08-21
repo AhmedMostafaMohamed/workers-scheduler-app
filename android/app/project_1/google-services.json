@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "156012573455",
+    "project_id": "workersscheduler",
+    "storage_bucket": "workersscheduler.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156012573455:android:2e524add1189f9ab95c47a",
+        "android_client_info": {
+          "package_name": "com.example.workers_scheduler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156012573455-bojom5p7rrhdpphl5vfs2tr3u50mt36p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfJrhWk5N0KixA7r0RBfsA4J6c1jVfWqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156012573455-bojom5p7rrhdpphl5vfs2tr3u50mt36p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "156012573455-2spmb8hc434u2vggpl16ut1p3jdt8bdm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.workersScheduler"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
